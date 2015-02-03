@@ -1,0 +1,4 @@
+name: BanIP
+main: ins.BanIP.BanIP_main
+version: 1.0
+author: Install
