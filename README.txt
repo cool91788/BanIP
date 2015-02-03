@@ -1,6 +1,6 @@
-¦¹´¡¥ó¬°Install©Ò¼¶¼g¦WºÙ¬° BanIP¡C
-¨ÏBungeeCord¦øªA¾¹¾Ö¦³BanIPªº¥\¯à¡C
-¥»µ{¦¡¨ü¨ìGPLv3¨óÄ³«O»Ù¡A¦p¦³¥ô¦óºÃ°İ½Ğ¬¢cool9035963@gmail.com
+æ­¤æ’ä»¶ç‚ºInstallæ‰€æ’°å¯«ï¼Œåç¨±ç‚º BanIPã€‚
+ä½¿BungeeCordä¼ºæœå™¨æ“æœ‰BanIPçš„åŠŸèƒ½ã€‚
+æœ¬ç¨‹å¼å—åˆ°GPLv3å”è­°ä¿éšœï¼Œå¦‚æœ‰ä»»ä½•ç–‘å•è«‹æ´½cool9035963@gmail.com
 =====================================================================================================
 This plugin is write by Install , it call "BanIP".
 It make BungeeCord servers could ban ip.
